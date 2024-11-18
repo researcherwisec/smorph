@@ -1,4 +1,4 @@
-# SMORPH: Dynamic Signal Morphing Framework
+# sMorph: Dynamic Signal Morphing Framework
 
 SMORPH is a wireless communication security framework designed to reduce the probability of interception by dynamically altering signal attributes. It combines cyber deception and moving target defense strategies to thwart adversaries using machine learning or advanced signal classification techniques.
 
